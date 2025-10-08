@@ -5,6 +5,8 @@ This repository contains the full implementation, experiments, and analysis code
 > **"Predictive Modeling of Wind Turbine Power Output Using SCADA Data"**  
 > Md. Rakin-Al-Mahin, 2025  
 > [Department of Computer Science and Engineering, RUET]  
+> [rakinalmahin@gmail.com]
+
 > _(research project submission)_
 
 ---
