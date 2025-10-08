@@ -26,7 +26,7 @@ The approach combines **domain-aware feature engineering** and **interpretable m
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle – Wind Turbine SCADA Dataset](https://www.kaggle.com/datasets)
+- **Source:** [Kaggle – Wind Turbine SCADA Dataset](https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset/data)
 - **Size:** ~50,530 samples, 6 columns
 - **Sampling Rate:** 10-minute intervals
 - **Main Features:**
